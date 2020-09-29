@@ -1,12 +1,12 @@
-#Ejemplo Uso TextEdit
--Texto
--Password
--Number
--Mail
+# Ejemplo Uso TextEdit
+- Texto
+- Password
+- Number
+- Mail
 
-##RadioGroup y RadioButton
-##CheckButton
-##ToggleButton
-##Switch
-##ImageButton
-##ImageView
+## **Otros controles**
+- CheckButton
+- ToggleButton
+- Switch
+- ImageButton
+- ImageView
